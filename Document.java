@@ -1,0 +1,3 @@
+claass Document{
+    
+}
